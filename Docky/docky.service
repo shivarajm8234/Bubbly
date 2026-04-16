@@ -1,0 +1,15 @@
+[Unit]
+Description=Docky Bubble App Controller
+After=graphical-session.target
+
+[Service]
+Type=simple
+ExecStart=/home/satoru/Desktop/Bubbly/Docky/start.sh
+WorkingDirectory=/home/satoru/Desktop/Bubbly/Docky
+Restart=always
+RestartSec=3
+Environment=DISPLAY=:0
+Environment=XDG_SESSION_TYPE=x11
+
+[Install]
+WantedBy=graphical-session.target

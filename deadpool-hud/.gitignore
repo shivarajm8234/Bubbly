@@ -1,0 +1,8 @@
+__pycache__/
+venv/
+# *.apk
+!HUB.apk
+!release/HUB.apk
+share_qr.png
+syncthing_qr.png
+.vscode/

@@ -1,0 +1,12 @@
+{
+    "Locky": {
+        "entry": "start.sh",
+        "icon": "/home/satoru/Desktop/Bubbly/Locky/spiderlogo.png",
+        "name": "Locky Focus"
+    },
+    "deadpool-hud": {
+        "entry": "desktop_dashboard.py",
+        "icon": "/home/satoru/Desktop/Bubbly/deadpool-hud/deadpool_logo.png",
+        "name": "Deadpool HUD"
+    }
+}
