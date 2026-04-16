@@ -8,5 +8,11 @@
         "entry": "desktop_dashboard.py",
         "icon": "/home/satoru/Desktop/Bubbly/deadpool-hud/deadpool_logo.png",
         "name": "Deadpool HUD"
+    },
+    "Dockly": {
+        "entry": "start.sh",
+        "icon": "/home/satoru/Desktop/Bubbly/Dockly/dockly_logo.png",
+        "name": "Dockly Manager",
+        "path": "/home/satoru/Desktop/Bubbly/Dockly"
     }
 }
